@@ -1,0 +1,1 @@
+This is a site that I'm creating to practice what I learned using HTML, CSS, JavaScript, Terminal, Git & GitHub and Sublime Text.

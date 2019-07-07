@@ -1,0 +1,16 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.catIcon {
+	width: 40px;
+}
+
+.title {
+	display: grid;
+}
+
+.topics {
+	display: grid;
+	grid-template-columns: repeat(5, 20%);
+}
